@@ -9,8 +9,6 @@ Update AWS Security Group Rule IP to current IP simply
 
 # Usage
 
-<!-- usage -->
-
 ```sh-session
 $ npm install -g update-aws-sgr-myip
 
@@ -21,5 +19,3 @@ $ update-aws-sgr-myip --help
 
 $ update-aws-sgr-myip -g 'sg-6f4f4xxx' -r 'sgr-046ca15329302axxx' -p 22
 ```
-
-<!-- usagestop -->
