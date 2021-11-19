@@ -23,8 +23,7 @@ update-aws-sgr-myip/1.0.0 darwin-x64 node-v14.18.0
 
 $ update-aws-sgr-myip --help
 
-$ update-aws-sgr-myip -g 'sg-6f4f4xxx' -r 'sgr-046ca15329302axxx' -p 22 --description 'Hello world'
-...
+$ update-aws-sgr-myip -g 'sg-6f4f4xxx' -r 'sgr-046ca15329302axxx' -p 22
 ```
 
 <!-- usagestop -->
