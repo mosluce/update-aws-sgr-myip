@@ -5,11 +5,7 @@
 [![Downloads/week](https://img.shields.io/npm/dw/update-aws-sgr-myip.svg)](https://npmjs.org/package/update-aws-sgr-myip)
 [![License](https://img.shields.io/npm/l/update-aws-sgr-myip.svg)](https://github.com/mosluce/update-aws-sgr-myip/blob/master/package.json)
 
-<!-- toc -->
-
-- [Usage](#usage)
-
-<!-- tocstop -->
+Update AWS Security Group Rule IP to current IP simply
 
 # Usage
 
