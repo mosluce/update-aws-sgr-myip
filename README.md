@@ -8,7 +8,7 @@
 <!-- toc -->
 
 - [Usage](#usage)
-- [Commands](#commands)
+
 <!-- tocstop -->
 
 # Usage
